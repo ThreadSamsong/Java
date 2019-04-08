@@ -4,9 +4,9 @@
 
 ### 读写分离
 - [Mysql 读写分离]
-- [分库分表到底有多神秘？]
+- [分库分表Sharding-Jdbc到底有多神秘？]
 
-## 分布式架构（基于springboot2.x）
+## 分布式架构
 
 ### 分布式锁
 - [Zookeeper 分布式锁](https://github.com/ThreadSamsong/springBoot-distributedLock/blob/master/README.md)
