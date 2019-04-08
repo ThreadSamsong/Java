@@ -1,6 +1,26 @@
 # Java 工程师升级打怪之路
 
-## 数据库( 多数据源 | 动态数据源 )
+## Java基础
+
+### Java常用集合
+- [ArrayList]
+- [LinkedList]
+- [HashMap]
+- [HashSet]
+
+### Java并发
+- [内存模型 JMM]
+- [synchronized]
+- [volatile]
+- [Lock]
+- [JUC工具类]
+
+### JVM
+- [内存划分]
+- [类加载机制]
+- [垃圾回收]
+
+## 数据库
 
 ### 读写分离
 - [Mysql 读写分离]
