@@ -4,5 +4,5 @@ java程序员的晋级之路
 ## 分布式架构
 
 ### 分布式锁
-- [Zookeeper 分布式锁](/springBoot-distributedLock/blob/master/README.md)
-- [Redis 分布式锁](/springBoot-distributedLock/blob/master/README.md)
+- [Zookeeper 分布式锁](https://github.com/ThreadSamsong/springBoot-distributedLock/blob/master/README.md)
+- [Redis 分布式锁](https://github.com/ThreadSamsong/springBoot-distributedLock/blob/master/README.md)
