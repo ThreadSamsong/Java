@@ -24,7 +24,7 @@
 ## 数据库
 
 ### 读写分离
-- [Mysql 读写分离]
+- [Mysql 读写分离](https://github.com/ThreadSamsong/springBoot-mysql/blob/master/README.md)
 - [分库分表Sharding-Jdbc到底有多神秘？]
 
 ## 分布式架构
