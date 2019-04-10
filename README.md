@@ -37,8 +37,8 @@
 - [基于Redis 分布式限流你真的会用吗？]
 
 ### 分布式缓存
-- [分布式缓存 Redis集群]
-- [分布式缓存 一致性Hash算法]
+- [分布式缓存 Redis集群](https://github.com/ThreadSamsong/springBoot-redis/blob/master/README.md)
+- [分布式缓存 一致性Hash算法](https://github.com/ThreadSamsong/springBoot-redis/blob/master/README.md)
 - [阿里开源缓存框架](https://github.com/alibaba/jetcache)
 
 ### 分布式事务
