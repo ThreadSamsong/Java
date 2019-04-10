@@ -34,7 +34,7 @@
 - [Redis 分布式锁](https://github.com/ThreadSamsong/springBoot-distributedLock/blob/master/README.md)
 
 ### 分布式限流
-- [基于Redis 分布式限流你真的会用吗？]
+- [基于Redis 分布式限流你真的会用吗？](https://github.com/ThreadSamsong/springBoot-redis/blob/master/README.md)
 
 ### 分布式缓存
 - [分布式缓存 Redis集群](https://github.com/ThreadSamsong/springBoot-redis/blob/master/README.md)
