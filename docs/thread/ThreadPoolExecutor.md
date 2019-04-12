@@ -248,13 +248,7 @@ public class TreadPoolConfig {
 首先需要定义两个线程池，分别用于执行订单、处理用户。
 
 ```java
-/**
- * Function:订单服务
- *
- * @author crossoverJie
- *         Date: 2018/7/28 16:43
- * @since JDK 1.8
- */
+
 public class CommandOrder extends HystrixCommand<String> {
 
     private final static Logger LOGGER = LoggerFactory.getLogger(CommandOrder.class);
@@ -299,13 +293,7 @@ public class CommandOrder extends HystrixCommand<String> {
 }
 
 
-/**
- * Function:用户服务
- *
- * @author crossoverJie
- *         Date: 2018/7/28 16:43
- * @since JDK 1.8
- */
+
 public class CommandUser extends HystrixCommand<String> {
 
     private final static Logger LOGGER = LoggerFactory.getLogger(CommandUser.class);
