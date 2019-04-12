@@ -3,23 +3,23 @@
 ## Java基础
 
 ### Java常用集合
-- [ArrayList]
-- [LinkedList]
-- [HashMap]
-- [HashSet]
+- [ArrayList](https://github.com/ThreadSamsong/Java/blob/master/docs/collections/ArrayList.md)
+- [LinkedList](https://github.com/ThreadSamsong/Java/blob/master/docs/collections/LinkedList.md)
+- [HashMap](https://github.com/ThreadSamsong/Java/blob/master/docs/collections/HashMap.md)
+- [HashSet](https://github.com/ThreadSamsong/Java/blob/master/docs/collections/HashSet.md)
 
 ### Java并发
 - [内存模型 JMM]
-- [synchronized]
-- [volatile]
-- [Lock]
+- [synchronized](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/Synchronize.md)
+- [volatile](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/volatile.md)
+- [Lock](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/Java-lock.md)
 - [JUC工具类]
-- [线程池]
+- [线程池](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/ThreadPoolExecutor.md)
 
 ### JVM
-- [内存划分]
-- [类加载机制]
-- [垃圾回收]
+- [内存划分](https://github.com/ThreadSamsong/Java/blob/master/docs/jvm/MemoryAllocation.md)
+- [类加载机制](https://github.com/ThreadSamsong/Java/blob/master/docs/jvm/ClassLoad.md)
+- [垃圾回收](https://github.com/ThreadSamsong/Java/blob/master/docs/jvm/GarbageCollection.md)
 
 ## 数据库
 
