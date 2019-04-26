@@ -50,7 +50,7 @@
 - [springboot2.X+dubbo+Swagger2](https://github.com/ThreadSamsong/springBoot-dubbo/blob/master/README.md)
 
 ### 高可用架构设计
-- [秒杀架构]
+- [秒杀架构](https://github.com/ThreadSamsong/Java/blob/master/docs/architecture-design/seckill.md)
 - [百万级的消息推送系统]
 - [分布式 IM 通信系统]
 
