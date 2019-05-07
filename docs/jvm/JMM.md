@@ -19,7 +19,7 @@ Java内存模型规定了所有的变量都存储在主内存中，每条线程�
 
 ## 原子性
 
-在Java中，为了保证原子性，提供了两个高级的字节码指令monitorenter和monitorexit。在synchronized的实现原理文章中，介绍过，这两个字节码，在Java中对应的关键字就是synchronized。
+在Java中，为了保证原子性，提供了两个高级的字节码指令``monitorenter``和``monitorexit``。在synchronized的实现原理文章中，介绍过，这两个字节码，在Java中对应的关键字就是synchronized。
 
 因此，在Java中可以使用synchronized来保证方法和代码块内的操作是原子性的。
 
