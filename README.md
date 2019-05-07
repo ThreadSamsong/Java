@@ -54,7 +54,7 @@
 - [阿里开源缓存框架](https://github.com/alibaba/jetcache)
 
 ### 分布式事务
-- [如何优雅解决分布式事务]（https://github.com/ThreadSamsong/Java/blob/master/docs/distributed/DistributedTransaction.md）
+- [如何优雅解决分布式事务](https://github.com/ThreadSamsong/Java/blob/master/docs/distributed/DistributedTransaction.md)
 - [阿里Seata 分布式事务](https://github.com/seata/seata)
 
 ### 常用框架
