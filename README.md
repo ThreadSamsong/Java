@@ -9,7 +9,7 @@
 - [HashSet](https://github.com/ThreadSamsong/Java/blob/master/docs/collections/HashSet.md)
 
 ### Java并发
-- [内存模型 JMM]
+- [内存模型 JMM](https://github.com/ThreadSamsong/Java/blob/master/docs/jvm/JMM.md)
 - [synchronized](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/Synchronize.md)
 - [volatile](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/volatile.md)
 - [Lock](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/Java-lock.md)
