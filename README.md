@@ -13,7 +13,6 @@
 - [synchronized](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/Synchronize.md)
 - [volatile](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/volatile.md)
 - [Lock](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/Java-lock.md)
-- [JUC工具类]
 - [线程池](https://github.com/ThreadSamsong/Java/blob/master/docs/thread/ThreadPoolExecutor.md)
 
 ### JVM
