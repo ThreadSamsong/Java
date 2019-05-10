@@ -46,11 +46,12 @@
 
 ### 分布式限流
 - [基于Redis 分布式限流你真的会用吗？](https://github.com/ThreadSamsong/springBoot-redis/blob/master/README.md)
+- [阿里轻量级的流量控制、熔断降级框架Sentinel]（https://github.com/alibaba/Sentinel）
 
 ### 分布式缓存
 - [分布式缓存 Redis集群](https://github.com/ThreadSamsong/springBoot-redis/blob/master/README.md)
 - [分布式缓存 一致性Hash算法](https://github.com/ThreadSamsong/springBoot-redis/blob/master/README.md)
-- [阿里开源缓存框架](https://github.com/alibaba/jetcache)
+- [阿里开源缓存框架jetcache](https://github.com/alibaba/jetcache)
 
 ### 分布式事务
 - [如何优雅解决分布式事务](https://github.com/ThreadSamsong/Java/blob/master/docs/distributed/DistributedTransaction.md)
