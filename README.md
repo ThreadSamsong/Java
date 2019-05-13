@@ -20,6 +20,9 @@
 - [类加载机制](https://github.com/ThreadSamsong/Java/blob/master/docs/jvm/ClassLoad.md)
 - [垃圾回收](https://github.com/ThreadSamsong/Java/blob/master/docs/jvm/GarbageCollection.md)
 
+### 设计模式
+- [23种设计模式]()
+
 ## 高并发架构
 
 ### 读写分离
