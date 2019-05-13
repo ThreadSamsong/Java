@@ -34,6 +34,8 @@
 
 可以参考：
 
-[基于 Redis 的分布式锁]()
+[基于 Redis 的分布式锁](https://github.com/ThreadSamsong/springBoot-distributedLock/blob/master/README.md)
 
 ### 基于 ZK
+
+[基于zk的分布式锁](https://github.com/ThreadSamsong/springBoot-distributedLock/blob/master/README.md)
