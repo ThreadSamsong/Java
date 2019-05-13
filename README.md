@@ -21,7 +21,7 @@
 - [垃圾回收](https://github.com/ThreadSamsong/Java/blob/master/docs/jvm/GarbageCollection.md)
 
 ### 设计模式
-- [23种设计模式]()
+- [23种设计模式](https://github.com/ThreadSamsong/Java/blob/master/docs/design-patterns/designPatterns.md)
 
 ## 高并发架构
 
